@@ -50,7 +50,7 @@ I enjoy exploring complex datasets, uncovering patterns, building predictive mod
 
 | **Project** | **Category** | **Technologies** | **Project Description** |
 |---|---|---|---|
-| 💳 [💳 Financial Fraud Detection](https://github.com/Padmashri7/financial-fraud-detection) | Classification | Python, Pandas, Scikit-learn, XGBoost, SHAP | Developed a machine learning solution to identify fraudulent financial transactions using imbalanced classification techniques, model evaluation and explainable AI. |
+| [💳 Financial Fraud Detection](https://github.com/Padmashri7/financial-fraud-detection) | Classification | Python, Pandas, Scikit-learn, XGBoost, SHAP | Developed a machine learning solution to identify fraudulent financial transactions using imbalanced classification techniques, model evaluation and explainable AI. |
 | [📉 Customer Churn Prediction](https://github.com/Padmashri7/customer-churn-revenue-intelligence) | Predictive Analytics | Python, Pandas, Scikit-learn | Built a predictive model to identify customers at risk of churn, helping businesses prioritise retention efforts and customer engagement. |
 | [👥 Customer Segmentation](https://github.com/Padmashri7/customer-segmentation-marketing-intelligence) | Clustering | Python, Pandas, Scikit-learn, K-Means | Applied clustering techniques to identify customer groups and behavioural patterns, supporting targeted marketing strategies. |
 | [📦 Demand Forecasting & Inventory Intelligence](https://github.com/Padmashri7/demand-forecasting-inventory-intelligence) | Time Series Forecasting | Python, Pandas, NumPy | Analysed historical demand patterns and developed forecasting models to support inventory planning and demand-related business decisions. |
