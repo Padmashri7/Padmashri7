@@ -55,6 +55,8 @@ I enjoy exploring complex datasets, uncovering patterns, building predictive mod
 | [👥 Customer Segmentation](https://github.com/Padmashri7/customer-segmentation-marketing-intelligence) | Clustering | Python, Pandas, Scikit-learn, K-Means | Applied clustering techniques to identify customer groups and behavioural patterns, supporting targeted marketing strategies. |
 | [📦 Demand Forecasting & Inventory Intelligence](https://github.com/Padmashri7/demand-forecasting-inventory-intelligence) | Time Series Forecasting | Python, Pandas, NumPy | Analysed historical demand patterns and developed forecasting models to support inventory planning and demand-related business decisions. |
 | [⚙️ Predictive Maintenance](https://github.com/Padmashri7/predictive-maintenance-reliability-intelligence) | Predictive Modelling | Python, Pandas, Scikit-learn | Developed a machine learning project to predict potential equipment failures and support proactive maintenance planning. |
+| 📊 [Sales Performance Dashboard](https://github.com/Padmashri7/sales-performance-dashboard-excel) | Data Analytics | Excel, Data Cleaning, Pivot Tables, Dashboard | Cleaned and analysed sales data, created pivot tables and developed an interactive dashboard to explore revenue trends, regional performance, sales channels and product categories. |
+| 🗄️ [Parks and Recreation SQL Analysis](https://github.com/Padmashri7/parks-and-recreation-sql-analysis) | SQL Analysis | MySQL, SQL, Joins, CTEs, Window Functions | Built a relational database and explored employee demographics, salaries and departments using SQL filtering, aggregation, joins, subqueries, window functions and stored procedures. |
 ---
 
 ## 🎯 Currently Focusing On
